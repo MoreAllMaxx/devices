@@ -1,0 +1,1 @@
+select devices.dev_type, count(*) from devices left join endpoints on devices.id = endpoints.device_id where endpoints.device_id is null group by devices.dev_type;
