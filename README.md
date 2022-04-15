@@ -24,4 +24,4 @@
 Для удобства также добавил в папке [clients](clients/) клиенты для подключения.
 
 В файлах [10 devices and 15 endpoints.sql](10 devices and 15 endpoints.sql) и 
-[query.sql](query.sql) добавил запросы к БД по 2 и третьему заданиям
+[query.sql](query.sql) добавил запросы к БД по 2 и 3 заданиям
